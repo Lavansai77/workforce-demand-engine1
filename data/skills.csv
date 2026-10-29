@@ -1,0 +1,301 @@
+skill_id,skill_name,category,is_active
+SKL-000001,Skill_1,Soft Skills,True
+SKL-000002,Skill_2,Soft Skills,True
+SKL-000003,Skill_3,Domain,True
+SKL-000004,Skill_4,Technical,True
+SKL-000005,Skill_5,Domain,True
+SKL-000006,Skill_6,Domain,True
+SKL-000007,Skill_7,Domain,True
+SKL-000008,Skill_8,Technical,True
+SKL-000009,Skill_9,Domain,True
+SKL-000010,Skill_10,Technical,True
+SKL-000011,Skill_11,Domain,True
+SKL-000012,Skill_12,Domain,True
+SKL-000013,Skill_13,Soft Skills,True
+SKL-000014,Skill_14,Technical,True
+SKL-000015,Skill_15,Domain,True
+SKL-000016,Skill_16,Domain,True
+SKL-000017,Skill_17,Technical,True
+SKL-000018,Skill_18,Domain,True
+SKL-000019,Skill_19,Certifications,True
+SKL-000020,Skill_20,Technical,True
+SKL-000021,Skill_21,Technical,True
+SKL-000022,Skill_22,Soft Skills,True
+SKL-000023,Skill_23,Domain,True
+SKL-000024,Skill_24,Soft Skills,True
+SKL-000025,Skill_25,Certifications,True
+SKL-000026,Skill_26,Technical,True
+SKL-000027,Skill_27,Technical,True
+SKL-000028,Skill_28,Domain,True
+SKL-000029,Skill_29,Domain,True
+SKL-000030,Skill_30,Certifications,True
+SKL-000031,Skill_31,Technical,True
+SKL-000032,Skill_32,Technical,True
+SKL-000033,Skill_33,Domain,True
+SKL-000034,Skill_34,Soft Skills,True
+SKL-000035,Skill_35,Technical,True
+SKL-000036,Skill_36,Domain,True
+SKL-000037,Skill_37,Certifications,True
+SKL-000038,Skill_38,Certifications,True
+SKL-000039,Skill_39,Technical,True
+SKL-000040,Skill_40,Certifications,True
+SKL-000041,Skill_41,Certifications,True
+SKL-000042,Skill_42,Technical,True
+SKL-000043,Skill_43,Domain,True
+SKL-000044,Skill_44,Certifications,True
+SKL-000045,Skill_45,Domain,True
+SKL-000046,Skill_46,Technical,True
+SKL-000047,Skill_47,Technical,True
+SKL-000048,Skill_48,Soft Skills,True
+SKL-000049,Skill_49,Technical,True
+SKL-000050,Skill_50,Soft Skills,True
+SKL-000051,Skill_51,Domain,True
+SKL-000052,Skill_52,Technical,True
+SKL-000053,Skill_53,Technical,True
+SKL-000054,Skill_54,Technical,True
+SKL-000055,Skill_55,Certifications,True
+SKL-000056,Skill_56,Domain,True
+SKL-000057,Skill_57,Certifications,True
+SKL-000058,Skill_58,Certifications,True
+SKL-000059,Skill_59,Technical,True
+SKL-000060,Skill_60,Technical,True
+SKL-000061,Skill_61,Soft Skills,True
+SKL-000062,Skill_62,Technical,True
+SKL-000063,Skill_63,Certifications,True
+SKL-000064,Skill_64,Technical,True
+SKL-000065,Skill_65,Certifications,True
+SKL-000066,Skill_66,Technical,True
+SKL-000067,Skill_67,Domain,True
+SKL-000068,Skill_68,Technical,True
+SKL-000069,Skill_69,Domain,True
+SKL-000070,Skill_70,Soft Skills,True
+SKL-000071,Skill_71,Soft Skills,True
+SKL-000072,Skill_72,Technical,True
+SKL-000073,Skill_73,Soft Skills,True
+SKL-000074,Skill_74,Certifications,True
+SKL-000075,Skill_75,Technical,True
+SKL-000076,Skill_76,Technical,True
+SKL-000077,Skill_77,Technical,True
+SKL-000078,Skill_78,Soft Skills,True
+SKL-000079,Skill_79,Technical,True
+SKL-000080,Skill_80,Technical,True
+SKL-000081,Skill_81,Technical,True
+SKL-000082,Skill_82,Certifications,True
+SKL-000083,Skill_83,Soft Skills,True
+SKL-000084,Skill_84,Certifications,True
+SKL-000085,Skill_85,Technical,True
+SKL-000086,Skill_86,Certifications,True
+SKL-000087,Skill_87,Soft Skills,True
+SKL-000088,Skill_88,Domain,True
+SKL-000089,Skill_89,Soft Skills,True
+SKL-000090,Skill_90,Certifications,True
+SKL-000091,Skill_91,Soft Skills,True
+SKL-000092,Skill_92,Soft Skills,True
+SKL-000093,Skill_93,Soft Skills,True
+SKL-000094,Skill_94,Certifications,True
+SKL-000095,Skill_95,Soft Skills,True
+SKL-000096,Skill_96,Soft Skills,True
+SKL-000097,Skill_97,Domain,True
+SKL-000098,Skill_98,Domain,True
+SKL-000099,Skill_99,Domain,True
+SKL-000100,Skill_100,Certifications,True
+SKL-000101,Skill_101,Soft Skills,True
+SKL-000102,Skill_102,Certifications,True
+SKL-000103,Skill_103,Domain,True
+SKL-000104,Skill_104,Technical,True
+SKL-000105,Skill_105,Technical,True
+SKL-000106,Skill_106,Certifications,True
+SKL-000107,Skill_107,Soft Skills,True
+SKL-000108,Skill_108,Domain,True
+SKL-000109,Skill_109,Technical,True
+SKL-000110,Skill_110,Certifications,True
+SKL-000111,Skill_111,Certifications,True
+SKL-000112,Skill_112,Domain,True
+SKL-000113,Skill_113,Domain,True
+SKL-000114,Skill_114,Certifications,True
+SKL-000115,Skill_115,Domain,True
+SKL-000116,Skill_116,Technical,True
+SKL-000117,Skill_117,Certifications,True
+SKL-000118,Skill_118,Soft Skills,True
+SKL-000119,Skill_119,Technical,True
+SKL-000120,Skill_120,Domain,True
+SKL-000121,Skill_121,Certifications,True
+SKL-000122,Skill_122,Soft Skills,True
+SKL-000123,Skill_123,Technical,True
+SKL-000124,Skill_124,Soft Skills,True
+SKL-000125,Skill_125,Technical,True
+SKL-000126,Skill_126,Domain,True
+SKL-000127,Skill_127,Technical,True
+SKL-000128,Skill_128,Soft Skills,True
+SKL-000129,Skill_129,Soft Skills,True
+SKL-000130,Skill_130,Certifications,True
+SKL-000131,Skill_131,Certifications,True
+SKL-000132,Skill_132,Technical,True
+SKL-000133,Skill_133,Technical,True
+SKL-000134,Skill_134,Domain,True
+SKL-000135,Skill_135,Domain,True
+SKL-000136,Skill_136,Certifications,True
+SKL-000137,Skill_137,Domain,True
+SKL-000138,Skill_138,Certifications,True
+SKL-000139,Skill_139,Technical,True
+SKL-000140,Skill_140,Technical,True
+SKL-000141,Skill_141,Domain,True
+SKL-000142,Skill_142,Certifications,True
+SKL-000143,Skill_143,Domain,True
+SKL-000144,Skill_144,Domain,True
+SKL-000145,Skill_145,Certifications,True
+SKL-000146,Skill_146,Certifications,True
+SKL-000147,Skill_147,Soft Skills,True
+SKL-000148,Skill_148,Domain,True
+SKL-000149,Skill_149,Certifications,True
+SKL-000150,Skill_150,Soft Skills,True
+SKL-000151,Skill_151,Soft Skills,True
+SKL-000152,Skill_152,Technical,True
+SKL-000153,Skill_153,Technical,True
+SKL-000154,Skill_154,Technical,True
+SKL-000155,Skill_155,Certifications,True
+SKL-000156,Skill_156,Domain,True
+SKL-000157,Skill_157,Certifications,True
+SKL-000158,Skill_158,Domain,True
+SKL-000159,Skill_159,Technical,True
+SKL-000160,Skill_160,Soft Skills,True
+SKL-000161,Skill_161,Domain,True
+SKL-000162,Skill_162,Certifications,True
+SKL-000163,Skill_163,Certifications,True
+SKL-000164,Skill_164,Certifications,True
+SKL-000165,Skill_165,Soft Skills,True
+SKL-000166,Skill_166,Certifications,True
+SKL-000167,Skill_167,Soft Skills,True
+SKL-000168,Skill_168,Technical,True
+SKL-000169,Skill_169,Domain,True
+SKL-000170,Skill_170,Domain,True
+SKL-000171,Skill_171,Domain,True
+SKL-000172,Skill_172,Certifications,True
+SKL-000173,Skill_173,Certifications,True
+SKL-000174,Skill_174,Technical,True
+SKL-000175,Skill_175,Certifications,True
+SKL-000176,Skill_176,Technical,True
+SKL-000177,Skill_177,Domain,True
+SKL-000178,Skill_178,Technical,True
+SKL-000179,Skill_179,Technical,True
+SKL-000180,Skill_180,Certifications,True
+SKL-000181,Skill_181,Technical,True
+SKL-000182,Skill_182,Domain,True
+SKL-000183,Skill_183,Soft Skills,True
+SKL-000184,Skill_184,Domain,True
+SKL-000185,Skill_185,Soft Skills,True
+SKL-000186,Skill_186,Soft Skills,True
+SKL-000187,Skill_187,Domain,True
+SKL-000188,Skill_188,Soft Skills,True
+SKL-000189,Skill_189,Soft Skills,True
+SKL-000190,Skill_190,Technical,True
+SKL-000191,Skill_191,Technical,True
+SKL-000192,Skill_192,Soft Skills,True
+SKL-000193,Skill_193,Domain,True
+SKL-000194,Skill_194,Soft Skills,True
+SKL-000195,Skill_195,Domain,True
+SKL-000196,Skill_196,Soft Skills,True
+SKL-000197,Skill_197,Soft Skills,True
+SKL-000198,Skill_198,Soft Skills,True
+SKL-000199,Skill_199,Technical,True
+SKL-000200,Skill_200,Domain,True
+SKL-000201,Skill_201,Domain,True
+SKL-000202,Skill_202,Certifications,True
+SKL-000203,Skill_203,Domain,True
+SKL-000204,Skill_204,Soft Skills,True
+SKL-000205,Skill_205,Certifications,True
+SKL-000206,Skill_206,Soft Skills,True
+SKL-000207,Skill_207,Certifications,True
+SKL-000208,Skill_208,Domain,True
+SKL-000209,Skill_209,Domain,True
+SKL-000210,Skill_210,Technical,True
+SKL-000211,Skill_211,Domain,True
+SKL-000212,Skill_212,Technical,True
+SKL-000213,Skill_213,Soft Skills,True
+SKL-000214,Skill_214,Certifications,True
+SKL-000215,Skill_215,Soft Skills,True
+SKL-000216,Skill_216,Certifications,True
+SKL-000217,Skill_217,Soft Skills,True
+SKL-000218,Skill_218,Domain,True
+SKL-000219,Skill_219,Soft Skills,True
+SKL-000220,Skill_220,Domain,True
+SKL-000221,Skill_221,Soft Skills,True
+SKL-000222,Skill_222,Certifications,True
+SKL-000223,Skill_223,Technical,True
+SKL-000224,Skill_224,Soft Skills,True
+SKL-000225,Skill_225,Technical,True
+SKL-000226,Skill_226,Certifications,True
+SKL-000227,Skill_227,Certifications,True
+SKL-000228,Skill_228,Technical,True
+SKL-000229,Skill_229,Soft Skills,True
+SKL-000230,Skill_230,Soft Skills,True
+SKL-000231,Skill_231,Technical,True
+SKL-000232,Skill_232,Soft Skills,True
+SKL-000233,Skill_233,Soft Skills,True
+SKL-000234,Skill_234,Technical,True
+SKL-000235,Skill_235,Certifications,True
+SKL-000236,Skill_236,Certifications,True
+SKL-000237,Skill_237,Soft Skills,True
+SKL-000238,Skill_238,Technical,True
+SKL-000239,Skill_239,Soft Skills,True
+SKL-000240,Skill_240,Technical,True
+SKL-000241,Skill_241,Domain,True
+SKL-000242,Skill_242,Domain,True
+SKL-000243,Skill_243,Domain,True
+SKL-000244,Skill_244,Technical,True
+SKL-000245,Skill_245,Technical,True
+SKL-000246,Skill_246,Soft Skills,True
+SKL-000247,Skill_247,Soft Skills,True
+SKL-000248,Skill_248,Technical,True
+SKL-000249,Skill_249,Soft Skills,True
+SKL-000250,Skill_250,Soft Skills,True
+SKL-000251,Skill_251,Domain,True
+SKL-000252,Skill_252,Domain,True
+SKL-000253,Skill_253,Certifications,True
+SKL-000254,Skill_254,Technical,True
+SKL-000255,Skill_255,Soft Skills,True
+SKL-000256,Skill_256,Technical,True
+SKL-000257,Skill_257,Soft Skills,True
+SKL-000258,Skill_258,Technical,True
+SKL-000259,Skill_259,Certifications,True
+SKL-000260,Skill_260,Soft Skills,True
+SKL-000261,Skill_261,Domain,True
+SKL-000262,Skill_262,Soft Skills,True
+SKL-000263,Skill_263,Soft Skills,True
+SKL-000264,Skill_264,Soft Skills,True
+SKL-000265,Skill_265,Technical,True
+SKL-000266,Skill_266,Soft Skills,True
+SKL-000267,Skill_267,Soft Skills,True
+SKL-000268,Skill_268,Certifications,True
+SKL-000269,Skill_269,Technical,True
+SKL-000270,Skill_270,Technical,True
+SKL-000271,Skill_271,Soft Skills,True
+SKL-000272,Skill_272,Domain,True
+SKL-000273,Skill_273,Soft Skills,True
+SKL-000274,Skill_274,Soft Skills,True
+SKL-000275,Skill_275,Soft Skills,True
+SKL-000276,Skill_276,Domain,True
+SKL-000277,Skill_277,Soft Skills,True
+SKL-000278,Skill_278,Technical,True
+SKL-000279,Skill_279,Technical,True
+SKL-000280,Skill_280,Domain,True
+SKL-000281,Skill_281,Soft Skills,True
+SKL-000282,Skill_282,Domain,True
+SKL-000283,Skill_283,Technical,True
+SKL-000284,Skill_284,Soft Skills,True
+SKL-000285,Skill_285,Technical,True
+SKL-000286,Skill_286,Domain,True
+SKL-000287,Skill_287,Certifications,True
+SKL-000288,Skill_288,Technical,True
+SKL-000289,Skill_289,Technical,True
+SKL-000290,Skill_290,Soft Skills,True
+SKL-000291,Skill_291,Domain,True
+SKL-000292,Skill_292,Technical,True
+SKL-000293,Skill_293,Technical,True
+SKL-000294,Skill_294,Domain,True
+SKL-000295,Skill_295,Certifications,True
+SKL-000296,Skill_296,Certifications,True
+SKL-000297,Skill_297,Technical,True
+SKL-000298,Skill_298,Technical,True
+SKL-000299,Skill_299,Technical,True
+SKL-000300,Skill_300,Soft Skills,True

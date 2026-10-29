@@ -1,0 +1,5 @@
+anomaly_id,category,entity_id,description,expected_behavior
+ANOM-001,Allocation Exceeds Availability,EMP-000001,Employee allocated 50 hours when net availability is 40 hours.,Flag over-allocation risk in capacity report.
+ANOM-002,Stale Skill Proficiency Treated Current,ESKL-0000001,Skill verification date is older than 24 months but treated as valid.,Trigger mandatory recertification or training recommendation.
+ANOM-003,Demand Double-Counted,DEM-PRJ-2026-000001-2026W01,Identical demand record duplicated for the same project-role-period.,Deduplicate during demand aggregation phase.
+ANOM-004,Overlapping Project Assignments,EMP-000001,Employee assigned to Project A and Project B simultaneously with conflicting hours.,Flag scheduling conflict.

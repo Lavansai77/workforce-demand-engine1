@@ -1,0 +1,6 @@
+role_id,role_name,job_family,base_pay_rate
+ROL-001,Full Stack Developer,Engineering,45.0
+ROL-002,Data Scientist,AI/ML,55.0
+ROL-003,DevOps Engineer,Operations,50.0
+ROL-004,UI/UX Designer,Design,40.0
+ROL-005,Product Manager,Management,60.0
